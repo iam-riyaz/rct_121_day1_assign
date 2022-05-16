@@ -1,0 +1,25 @@
+.main{
+    cursor:pointer
+}
+
+.list{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    display: flex;
+    line-height: 4px;
+    text-align: left;
+    width: 400px;
+    
+   
+
+    
+}
+
+.list img{
+    width: 50px;
+    margin: auto;
+}
+.list div{
+    margin-top: 0px;
+    
+}
